@@ -1,5 +1,5 @@
 # n-back
-A python-based n-back
+A python-based n-back; default configuration of 2-back
 
 ## Additional packages
 1) Uses a slightly modified [text_wrapper.py](http://www.pygame.org/wiki/TextWrap) to wrap instruction text.
